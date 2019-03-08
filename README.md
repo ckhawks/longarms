@@ -26,3 +26,4 @@ When the program runs, it will check the RSS feeds for each of the YouTube chann
 ## Future
 I plan on making the script do the same things for Spotify playlists - grab new additions and push them to the ingest playlist.
 I also would like to support external RSS feeds; for example, ones created from Zapier integrations.
+I might also add something that can assist in setting up the required files for the main script (some sort of setup wizard).
