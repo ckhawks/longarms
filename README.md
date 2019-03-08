@@ -18,3 +18,7 @@ Modify the timestamp in `lastrun` to your liking; the script will try to fetch a
 
 ## Execution
 When the program runs, it will check the RSS feeds for each of the YouTube channels listed in `youtube.json`, and check their upload timestamps against the timestamp in `lastrun`. Then, it will search for those songs in Spotify, and then if found add them to your ingest playlist. 
+
+## Future
+I plan on making the script do the same things for Spotify playlists - grab new additions and push them to the ingest playlist.
+I also would like to support external RSS feeds; for example, ones created from Zapier integrations.
